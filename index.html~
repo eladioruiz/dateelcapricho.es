@@ -8,10 +8,11 @@
 
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
     <meta charset="utf-8"/>
-    <meta name="description" content="">
+    <meta name="description" content="Date el capricho de decorar tu casa con alguna de estas manualidades originales y únicas. Regalos originales para esos amigos únicos.">
     <meta name="author" content="eladioruiz" >
+	 <meta name="robots" content="index,follow">
 
-    <title>dateelcapricho</title>
+    <title>Date el capricho - Manualidades, regalos, decoración</title>
 
     <link rel="stylesheet" href="./css/style.css" type="text/css" media="screen" />
     <link rel="stylesheet" href="./css/nivo-slider.css" type="text/css" />
@@ -39,8 +40,7 @@
     <header>
 
         <hgroup>
-            <h1><a href="index.html">PageOne</a></h1>
-            <h3>Just Another Styleshout Template</h3>
+            <h1><a href="index.html">date el capricho</a></h1>
         </hgroup>
 
         <nav>
@@ -317,65 +317,179 @@
 
                 <li class="folio-thumb">
                     <div class="thumb">
-                        <a class="lightbox" href="./images/thumbs/big/caja_tubo_big.jpg" title="Caja Tubo (30cm x 60cm)" ><img src="./images/thumbs/caja_tubo_small.jpg" alt="" /> </a>
+                        <a class="lightbox" href="./images/thumbs/big/espejo_bebe_big.jpg" title="EL espejo de bebé (25,5cm x 25,5cm)" ><img src="./images/thumbs/espejo_bebe_small.jpg" alt="" /> </a>
                     </div>
-                    <h3 class="entry-title">Caja Tubo (30cm x 60cm)<br><span class="entry-title-strike">50 &euro;</span>&nbsp;&nbsp;--&nbsp;VENDIDO&nbsp;--</h3>
+                    <h3 class="entry-title">El espejo de bebé (25,5cm x 25,5cm)<br><span class="entry-title-prize">15 &euro;</span></h3>
+                </li>
+
+                <li class="folio-thumb">
+                    <div class="thumb">
+                        <a class="lightbox" href="./images/thumbs/big/lechera_flores_big.jpg" title="La lechera de flores"><img src="./images/thumbs/lechera_flores_small.jpg" alt="" /> </a>
+                    </div>
+                    <h3 class="entry-title">La lechera de flores<br><span class="entry-title-sold">NO A LA VENTA</span></h3>
                 </li>
 
                 <li class="folio-thumb last">
                     <div class="thumb">
-                        <a class="lightbox" href="./images/thumbs/big/hexagon.jpg" title="Hexagon Bokeh"><img src="./images/thumbs/hexagon.jpg" alt="" /> </a>
+                        <a class="lightbox" href="./images/thumbs/big/posavasos_bea_big.jpg" title="Los posavasos de Bea" ><img src="./images/thumbs/posavasos_bea_small.jpg" alt="" /> </a>
                     </div>
-                    <h3 class="entry-title">Hexagon Bokeh</h3>
+                    <h3 class="entry-title">Los posavasos de Bea<br><span class="entry-title-sold">NO A LA VENTA</span></h3>
                 </li>
 
                 <li class="folio-thumb">
+                    <div class="thumb">
+                        <a class="lightbox" href="./images/thumbs/big/cajonera_9_big.jpg" title="La cajonera (9 cajones - 35,5cm x 25cm x 26cm)"><img src="./images/thumbs/cajonera_9_small.jpg" alt=""  /> </a>
+                    </div>
+                    <h3 class="entry-title">La cajonera (35,5cm x 25cm x 26cm)<br><span class="entry-title-prize">50 &euro;</span></h3>
+                </li>
+                
+                <li class="folio-thumb">
+                    <div class="thumb">
+                        <a class="lightbox" href="./images/thumbs/big/perchero_flores_big.jpg" title="El perchero de flores (1,8m alto)"><img src="./images/thumbs/perchero_flores_small.jpg" alt="" /> </a>
+                    </div>
+                    <h3 class="entry-title">El perchero de flores (1,8m alto)<br><span class="entry-title-prize">40 &euro;</span></h3>
+                </li>
+
+                 <li class="folio-thumb last">
+                    <div class="thumb">
+                        <a class="lightbox" href="./images/thumbs/big/espejo_cachemir_big.jpg" title="El espejo de cachemir (25,5cm x 25,5cm)"><img src="./images/thumbs/espejo_cachemir_small.jpg" alt="" /> </a>
+                    </div>
+                    <h3 class="entry-title">El espejo de cachemir (25,5cm x 25,5cm)<br><span class="entry-title-strike">15 &euro;</span>&nbsp;<span class="entry-title-sold">VENDIDO</span></h3>
+                </li>                
+
+                <li class="folio-thumb">
+                    <div class="thumb">
+                        <a class="lightbox" href="./images/thumbs/big/posavasos_crema_big.jpg" title="Los posavasos crema (juego de 6)" ><img src="./images/thumbs/posavasos_crema_small.jpg" alt="" /> </a>
+                    </div>
+                    <h3 class="entry-title">Los posavasos crema (juego de 6)<br><span class="entry-title-prize">9 &euro;</span></h3>
+                </li>
+
+                <li class="folio-thumb">
+                    <div class="thumb">
+                        <a class="lightbox" href="./images/thumbs/big/espejo_peces_big.jpg" title="El espejo de peces (25,5cm x 25,5cm)" ><img src="./images/thumbs/espejo_peces_small.jpg" alt="" /> </a>
+                    </div>
+                    <h3 class="entry-title">El espejo de peces (25,5cm x 25,5cm)<br><span class="entry-title-prize">15 &euro;</span></h3>
+                </li>
+
+
+<!--                <li class="folio-thumb">
                     <div class="thumb">
                         <a class="lightbox-video" href="http://www.youtube.com/watch?v=EPXwP8D5C5c&feature=player_embedded"><img src="./images/thumbs/hillsong-united-aftermath.jpg" alt="" /></a>
                     </div>
                     <h3 class="entry-title">Aftermath (Sample Video)</h3>
                 </li>
-                <li class="folio-thumb">
+-->                
+                <li class="folio-thumb last">
                     <div class="thumb">
-                        <a class="lightbox" href="./images/thumbs/big/dandelion.jpg" title="Dandelion" ><img src="./images/thumbs/dandelion.jpg" alt="" /> </a>
+                        <a class="lightbox" href="./images/thumbs/big/sillas_rojas_big.jpg" title="Las sillitas rojas"><img src="./images/thumbs/sillas_rojas_small.jpg" alt="" /> </a>
                     </div>
-                    <h3 class="entry-title">Dandelion</h3>
+                    <h3 class="entry-title">Las sillitas rojas<br><span class="entry-title-prize">24 &euro;</span></h3>
                 </li>
 
+               <li class="folio-thumb">
+                    <div class="thumb">
+                        <a class="lightbox" href="./images/thumbs/big/espejos_payasos_big.jpg" title="El espejo de payasos (25,5 cm x 25,5cm c.u.)"><img src="./images/thumbs/espejos_payasos_small.jpg" alt=""  /> </a>
+                    </div>
+                    <h3 class="entry-title">El espejo de payasos (25,5cm x 25,5cm)<br><span class="entry-title-strike">30 &euro;</span>&nbsp;<span class="entry-title-sold">VENDIDO</span></h3>
+                </li>
+                
                 <li class="folio-thumb">
                     <div class="thumb">
-                        <a class="lightbox" href="./images/thumbs/big/eiffel.jpg" title="Eiffel Tower"><img src="./images/thumbs/eiffel.jpg" alt="" /> </a>
+                        <a class="lightbox" href="./images/thumbs/big/mesa_fresa_big.jpg" title="La mesita de la fresa"><img src="./images/thumbs/mesa_fresa_small.jpg" alt="" /> </a>
                     </div>
-                    <h3 class="entry-title">Eiffel Tower</h3>
+                    <h3 class="entry-title">La mesita de la fresa<br><span class="entry-title-sold">NO A LA VENTA</span></h3>
                 </li>
 
                  <li class="folio-thumb last">
                     <div class="thumb">
-                        <a class="lightbox" href="./images/thumbs/big/clouds-and-rainbow.jpg" title="Clouds &amp; Rainbow"><img src="./images/thumbs/clouds-and-rainbow.jpg" alt="" /> </a>
+                        <a class="lightbox" href="./images/thumbs/big/posavasos_azules_big.jpg" title="Los posavasos azules (juego de 8)"><img src="./images/thumbs/posavasos_azules_small.jpg" alt="" /> </a>
                     </div>
-                    <h3 class="entry-title">Clouds &amp; Rainbow</h3>
-                </li>
+                    <h3 class="entry-title">Los posavasos azules (juego de 8)<br><span class="entry-title-prize">12 &euro;</span></h3>
+                </li>                
 
-                <li class="folio-thumb">
+               <li class="folio-thumb">
                     <div class="thumb">
-                        <a class="lightbox" href="./images/thumbs/big/landscape.jpg" title="Rural Landscape"><img src="./images/thumbs/landscape.jpg" alt=""  /> </a>
+                        <a class="lightbox" href="./images/thumbs/big/ninia_azul_big.jpg" title="La ni&ntilde;a del vestido azul"><img src="./images/thumbs/ninia_azul_small.jpg" alt=""  /> </a>
                     </div>
-                    <h3 class="entry-title">Rural Landscape</h3>
+                    <h3 class="entry-title">La ni&ntilde;a del vestido azul<br><span class="entry-title-prize">NO A LA VENTA</span></h3>
                 </li>
+                
+					 <li class="folio-thumb">
+						  <div class="thumb">
+					         <a class="lightbox" href="./images/thumbs/big/posavasos_marrones_big.jpg" title="Los posavasos marrones (juego de 8 izquierda, juego de 8 derecha)"><img src="./images/thumbs/posavasos_marrones_small.jpg" alt="" /> </a>
+					     </div>
+					     <h3 class="entry-title">Los posavasos marrones (juegos de 8)<br><span class="entry-title-prize">12 &euro; (cada juego)</span></h3>
+					 </li>                
+					
+					 <li class="folio-thumb last">
+					     <div class="thumb">
+					         <a class="lightbox" href="./images/thumbs/big/espejo_crema_big.jpg" title="El espejo de color crema"><img src="./images/thumbs/espejo_crema_small.jpg" alt="" /> </a>
+					     </div>
+					     <h3 class="entry-title">El espejo de color crema<br><span class="entry-title-prize">15 &euro;</span></h3>
+					 </li>
 
-                <li class="folio-thumb">
+               <li class="folio-thumb">
                     <div class="thumb">
-                        <a class="lightbox" href="./images/thumbs/big/sneakers.jpg" title="Cosmic Sneakers"><img src="./images/thumbs/sneakers.jpg" alt="" /> </a>
+                        <a class="lightbox" href="./images/thumbs/big/lechera_azul_big.jpg" title="La lechera azul"><img src="./images/thumbs/lechera_azul_small.jpg" alt=""  /> </a>
                     </div>
-                    <h3 class="entry-title">Cosmic Sneakers</h3>
+                    <h3 class="entry-title">La lechera azul<br><span class="entry-title-prize">NO A LA VENTA</span></h3>
                 </li>
+                
+					 <li class="folio-thumb">
+						  <div class="thumb">
+					         <a class="lightbox" href="./images/thumbs/big/perchero_mono_big.jpg" title="El perchero del monito"><img src="./images/thumbs/perchero_mono_small.jpg" alt="" /> </a>
+					     </div>
+					     <h3 class="entry-title">El perchero del monito<br><span class="entry-title-prize">30 &euro;</span></h3>
+					 </li>                
+					
+					 <li class="folio-thumb last">
+					     <div class="thumb">
+					         <a class="lightbox" href="./images/thumbs/big/zapatero_big.jpg" title="El zapatero de la casa"><img src="./images/thumbs/zapatero_small.jpg" alt="" /> </a>
+					     </div>
+					     <h3 class="entry-title">El zapatero de la casa<br><span class="entry-title-prize">NO A LA VENTA</span></h3>
+					 </li>
 
-                 <li class="folio-thumb last">
+               <li class="folio-thumb">
                     <div class="thumb">
-                        <a class="lightbox" href="./images/thumbs/big/vector-flower-fullscreen.jpg" title="Abstract Vectors"><img src="./images/thumbs/vector-flower-fullscreen.jpg" alt="" /> </a>
+                        <a class="lightbox" href="./images/thumbs/big/silla_verde_big.jpg" title="La sillita verde"><img src="./images/thumbs/silla_verde_small.jpg" alt=""  /> </a>
                     </div>
-                    <h3 class="entry-title">Abstract Vector</h3>
+                    <h3 class="entry-title">La sillita verde<br><span class="entry-title-prize">12 &euro;</span></h3>
                 </li>
+                
+					 <li class="folio-thumb">
+						  <div class="thumb">
+					         <a class="lightbox" href="./images/thumbs/big/ninia_rojo_big.jpg" title="La ni&ntilde;a del vestido rojo"><img src="./images/thumbs/ninia_rojo_small.jpg" alt="" /> </a>
+					     </div>
+					     <h3 class="entry-title">La ni&ntilde;a del vestido rojo<br><span class="entry-title-prize">25&euro;</span></h3>
+					 </li>                
+					
+					 <li class="folio-thumb last">
+					     <div class="thumb">
+					         <a class="lightbox" href="./images/thumbs/big/cajonera_4_big.jpg" title="La mini cajonera (4 cajones)"><img src="./images/thumbs/cajonera_4_small.jpg" alt="" /> </a>
+					     </div>
+					     <h3 class="entry-title">La mini cajonera (4 cajones)<br><span class="entry-title-prize">NO A LA VENTA</span></h3>
+					 </li>
+
+               <li class="folio-thumb">
+                    <div class="thumb">
+                        <a class="lightbox" href="./images/thumbs/big/espejo_mariposas_big.jpg" title="El espejo de las mariposas"><img src="./images/thumbs/espejo_mariposas_small.jpg" alt=""  /> </a>
+                    </div>
+                    <h3 class="entry-title">El espejo de las mariposas<br><span class="entry-title-prize">15 &euro;</span></h3>
+                </li>
+                
+					 <li class="folio-thumb">
+						  <div class="thumb">
+					         <a class="lightbox" href="./images/thumbs/big/caja_tubo_big.jpg" title="La caja &quot;tubo&quot;"><img src="./images/thumbs/caja_tubo_small.jpg" alt="" /> </a>
+					     </div>
+					     <h3 class="entry-title">La caja "tubo"<br><span class="entry-title-prize">NO A LA VENTA</span></h3>
+					 </li>                
+					
+					 <li class="folio-thumb last">
+					     <div class="thumb">
+					         <a class="lightbox" href="./images/thumbs/big/cajonera_4_big.jpg" title="La mini cajonera (4 cajones)"><img src="./images/thumbs/cajonera_4_small.jpg" alt="" /> </a>
+					     </div>
+					     <h3 class="entry-title">La mini cajonera (4 cajones)<br><span class="entry-title-prize">NO A LA VENTA</span></h3>
+					 </li>
 
             </ul>
 
@@ -600,3 +714,17 @@
 
 </body>
 </html>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-13252939-2']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>

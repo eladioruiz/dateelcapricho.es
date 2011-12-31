@@ -118,7 +118,8 @@ h1 {
     font-size: 40px;
     line-height: 50px;
     letter-spacing: -0.9px;
-    color: #046416;
+    /*color: #046416;*/
+    color: #223b4f;
     margin-left: -2px;
 }
 h2 {
@@ -525,15 +526,33 @@ section#portfolio ul.folio-list li .thumb img {
     margin-left: 0px;
 }
 section#portfolio ul.folio-list li h3.entry-title {
-    font-size: 14px;
+	 font-family: Arial;
+	 font-weight: bold;
+    font-size: 15px;
     line-height: 25px;
     margin-left: 0px;
+    color: #223b4f;
 }
 
 /* ERL 30/12/2011 */
+section#portfolio ul.folio-list li span.entry-title-prize {
+	 font-family: Arial;
+	 font-weight: normal;
+    font-size: 15px;
+    line-height: 25px;
+    margin-left: 0px;
+    color: #223b4f;
+}
+
 section#portfolio ul.folio-list li span.entry-title-strike {
-    text-decoration: line-through;
-    color: red;
+	 font-family: Arial;
+	 font-weight: normal;
+    text-decoration: line-through;   
+}
+
+/* ERL 31/12/2011 */
+section#portfolio ul.folio-list li span.entry-title-sold {
+    font-weight: normal;    
 }
 
 /* ------------------------------------------------
