@@ -144,7 +144,8 @@ ol { list-style: decimal; }
 dl { margin-bottom: 25px; }
 dt {
     font-weight: bold;
-    color: #046416;
+    /*color: #046416;*/
+    color: #223b4f;
 }
 dd {
     padding-left: 20px;
@@ -550,6 +551,7 @@ section#portfolio ul.folio-list li span.entry-title-strike {
     text-decoration: line-through;   
 }
 
+
 /* ERL 31/12/2011 */
 section#portfolio ul.folio-list li span.entry-title-sold {
     font-weight: normal;    
@@ -638,7 +640,8 @@ section#contact .primary form {
 section#contact .primary form p {
 	font-family: "MerriweatherBold", Serif;
     font-size: 14.5px;
-	color: #046416;
+	/*color: #046416;*/
+    color: #223b4f;
 }
 section#contact .primary form label {
     display: block;
@@ -649,8 +652,15 @@ section#contact .primary form label {
     text-shadow: 1px 1px 0 rgba(255, 255, 255, 1);
 }
 section#contact .primary form label span {
-    color: #046416;
+    /*color: #046416;*/
+    color: #223b4f;
 }
+
+
+section#contact .primary .required {
+	color: #ed087d;
+}
+
 section#contact .primary form input,
 section#contact .primary form select,
 section#contact .primary form textarea {
@@ -679,17 +689,17 @@ section#contact .primary form textarea:focus {
 section#contact .primary form input.button {
    	height: 38px;
 	margin: 5px 0;
-	background: #1F8532 url(../images/btn-bg.png);
-    border: 1px solid #066a19;
+	background: #cccccc url(../images/b1tn-bg.png);
+    border: 1px solid #223b4f;
     font-family: "MerriweatherBold", Georgia, Serif;
     font-size: 14px;
-    color: #ffffff;
+    color: #223b4f;
     cursor: pointer;
-    text-shadow: 0 -1px 0 rgba(0,0,0,0.5);
+    /*text-shadow: 0 -1px 0 rgba(0,0,0,0.5);*/
 
-    box-shadow: 0px 1px 1px rgba(0,0,0,0.4), inset 0 1px 0 #28a441;
-    -moz-box-shadow: 0px 1px 1px rgba(0,0,0,0.4), inset 0 1px 0 #28a441;
-    -webkit-box-shadow: 0px 1px 1px rgba(0,0,0,0.4), inset 0 1px 0 #28a441;
+    box-shadow: 0px 1px 1px rgba(0,0,0,0.4), inset 0 1px 0 #223b4f;
+    -moz-box-shadow: 0px 1px 1px rgba(0,0,0,0.4), inset 0 1px 0 #223b4f;
+    -webkit-box-shadow: 0px 1px 1px rgba(0,0,0,0.4), inset 0 1px 0 #223b4f;
 }
 .ie7 section#contact .primary form input.button {
     padding: 0 2px;
