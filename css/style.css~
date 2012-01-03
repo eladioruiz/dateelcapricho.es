@@ -226,6 +226,16 @@ header {
     padding: 175px 0 25px 0;
     background: url(../images/section-sep.png) repeat-x left 25px;
 }
+
+/* ERL 03/01/2011 */ 
+.content-wrap section .note {
+    position: relative;
+    padding: 175px 0 25px 0;
+/*    font-size: 14px;
+    font-weight: bold;
+    font-style: italic;
+    background: url(../images/section-sep.png) repeat-x left 25px; */
+}
 .content-wrap section section {
     background: none;
     margin: 0;
@@ -312,7 +322,7 @@ header {
     right: 10px;
     height: 43px;
     width: 43px;
-    background: url(../images/home.jpg);
+    background: url(../images/back-to-top.png);
     text-indent: -9999px;
     z-index: 999;
 }
