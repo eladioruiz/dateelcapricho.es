@@ -77,11 +77,11 @@
         <div class="slider-wrapper">
 
             <div id="slider" class="nivoSlider">
-                <img src="./images/slides/slide1.png" width="383" height="198" alt="" />
-                <img src="./images/slides/slide2.png" width="383" height="198" alt="" />
+                <img src="./images/slides/slide1.jpg" width="383" height="198" alt="" />
+                <img src="./images/slides/slide2.jpg" width="383" height="198" alt="" />
                 <!--<img src="./images/slides/slide3.png" width="383" height="198" alt="" title="#htmlcaption"/>-->
-                <img src="./images/slides/slide3.png" width="383" height="198" alt="" />
-                <img src="./images/slides/slide4.png" width="383" height="198" alt="" />
+                <img src="./images/slides/slide3.jpg" width="383" height="198" alt="" />
+                <img src="./images/slides/slide4.jpg" width="383" height="198" alt="" />
             </div>
             <div id="htmlcaption" class="nivo-html-caption">
                 <strong>This</strong> is an example of a <em>HTML</em> caption with <a href="#">a link</a>.
@@ -378,49 +378,10 @@
             <div class="primary">
 
                 <p class="intro">
-                Si deseas ponerte en contacto conmigo, hacer algún pedido, enviar un comentario o sugerencia, utiliza el siguiente formulario y te responderé lo antes posible.</p>
+                Si deseas ponerte en contacto conmigo, hacer algún pedido, enviar un comentario o sugerencia, utiliza la direcci&oacute indicada en el lateral y te responderé lo antes posible.</p>
                 <p class="intro">Para los pedidos, lamentablemente de momento sólo puedo hacer entregas en mano, en Madrid.
                 </p>
 
-                <form method="post" action="contact.php" id="contactform">
-
-                    <div>
-                    <p>¡Env&iacute;ame un mensaje!</p>
-                    </div>
-
-                    <div>
-                    <label>Nombre <span class="required">*</span></label>
-                    <input name="name" type="text" id="name" value="" />
-                    </div>
-
-                    <div>
-                    <label>Email <span class="required">*</span></label>
-                    <input name="email" type="text" id="email" value="" />
-                    </div>
-
-                    <div>
-                    <label>Web</label>
-                    <input name="website" type="text" id="website" value="" />
-                    </div>
-
-                    <div>
-                    <label>Asunto</label>
-                    <input name="subject" type="text" id="subject"  value="" />
-                    </div>
-
-                    <div>
-                    <label>Mensaje <span class="required">*</span></label>
-                    <textarea name="message" rows="20" cols="50"  id="message" ></textarea><br /><br />
-                    </div>
-
-                    <div>
-						  
-						  <input type="submit"  value="¡Enviar!" class="button">
-         			  <input type="reset" value="Limpiar" class="button">
-					</div>
-
-
-                </form>
 
             </div>
 
@@ -438,7 +399,7 @@
                     dateelcapricho[@]dateelcapricho.es
                     </p>
 
-
+<!--
                     <h2>S&iacute;gueme en</h2>
 
                     <ul class="link-list social">
@@ -450,7 +411,7 @@
                         <li class="delicious"><a href="#">Delicious</a></li>
                         <li class="flickr"><a href="#">Flickr</a></li>
                     </ul>
-
+-->
             </aside>
 
             <a class="back-to-top" href="#main">Back to Top</a>
